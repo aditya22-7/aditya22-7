@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Dhakka</h1>
 <h3 align="center">A software designing enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Chess Olympics](https://github.com/aditya22-7/chess-game-fetchapi.git)
+- 🔭 I’m currently working on [Chess Olympics Application](https://github.com/aditya22-7/chess-game-fetchapi.git)
 
 - 🌱 I’m currently learning **AWS**
 
